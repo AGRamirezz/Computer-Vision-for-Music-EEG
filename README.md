@@ -2,16 +2,25 @@
 In this study we show that EEG responses of participants listening to music can be efficiently processed by standard computer vision models. Our results produce SOTA performance on an end-to-end classification task.
 
 Paper: https://arxiv.org/abs/2202.03265?context=eess
+
 Cite As: Ramirez-Aristizabal, A. G., Ebrahimpour, M. K., & Kello, C. T. (2022). Image-based eeg classification of brain responses to song recordings. arXiv preprint arXiv:2202.03265.
 
 Content Summary:
+
 9 Models 
+
 2 Datasets
+
 -Natural Music EEG Dataset - Tempo
+
 --Link: https://exhibits.stanford.edu/data/catalog/jn859kj8079
+
 --Cite As: Losorelli, S., Nguyen, D. T., Dmochowski, J. P., & Kaneshiro, B. (2017, October). NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music. In ISMIR (pp. 339-346).
+
 -Natural Music EEG Dataset - Hindi
+
 --Link:https://exhibits.stanford.edu/data/catalog/sd922db3535
+
 --Cite As: Kaneshiro, B., Nguyen, D. T., Dmochowski, J. P., Norcia, A. M., & Berger, J. (2016). Naturalistic music EEG dataset—hindi (nmed-h). In Stanford Digital Repository.. Stanford Digital Repository.
 
 
