@@ -1,2 +1,2 @@
 
-Whitepaper is under review at ICASSP 2022. Full code will be released after review. 
+This is example code demonstrating how certain analyses from the study could be implemented.  
